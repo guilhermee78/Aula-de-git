@@ -1,1 +1,1 @@
-print("Este é o script 3 do projeto")
+print("Este é o novo script 3 do projeto")
