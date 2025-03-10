@@ -1,1 +1,1 @@
-print("Este é o novo script 3 do projeto")
+print("SP VAI AMASSAR O PALMEIRAS")
